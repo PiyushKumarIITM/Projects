@@ -1,0 +1,1 @@
+In this project I have created a supermarket management and billing system. I have created it using C++ programming language. I have implemented objected oriented low level system design to create this project.
