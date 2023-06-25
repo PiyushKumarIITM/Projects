@@ -1,0 +1,1 @@
+In this project, I have created an automated bot for playing the classic game of Tic Tac Toe against a human user. It has 2 options: computer to start first and human to start first. The future that makes the bot versatile is that it never loses. I have created it using C++ programming language. I have implemented dynamic programming and greedy techniques to create this project.
